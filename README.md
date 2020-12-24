@@ -4,7 +4,7 @@
 
 📫 Mail: seungmin3837@naver.com
 
-✨ Skill: Node.js Typescript Docker React.js MySQL
+✨ Skill: Node.js | Typescript | Docker | ReactJS | MySQL
 
 <!--
 **Seung3837/Seung3837** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
