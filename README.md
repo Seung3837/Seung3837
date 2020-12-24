@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-💬 Blog: https://velog.io/@seung3837
+💬 Blog: https://velog.io/@seung3837 
+
 📫 Mail: seungmin3837@naver.com
+
 ✨ Skill: Node.js Typescript Docker React.js MySQL
 
 <!--
