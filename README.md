@@ -2,7 +2,7 @@
 
 💬 Blog: https://velog.io/@seung3837 
 
-📫 Mail: seungmin3837@naver.com
+📫 Mail: seungmin4755@gmail.com
 
 ✨ Skill: Node.js | Typescript | Docker | ReactJS | MySQL
 
