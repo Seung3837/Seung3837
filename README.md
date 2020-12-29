@@ -6,6 +6,8 @@
 
 ✨ Skill: Node.js | Typescript | Docker | ReactJS | MySQL
 
+🌱 [Resume](https://www.notion.so/Seungmin-Lee-706a5c55276c4ff58f1ff87d433bb4fb)
+
 <!--
 **Seung3837/Seung3837** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
