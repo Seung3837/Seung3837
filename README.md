@@ -4,7 +4,6 @@
 
 #### 📫 Mail: seungmin4755@gmail.com
 
-
 #### ✨ Skills
 <img src="https://img.shields.io/badge/NodeJS-339933?style=flat&logo=Node.js&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />&nbsp;
@@ -12,12 +11,10 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/NGINX-269539?style=flat&logo=NGINX&logoColor=white" />&nbsp;
-
 #### 🔧 Studying
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=Go&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white" />&nbsp;
-
 #### 🌱 [Resume](https://www.notion.so/Seungmin-Lee-706a5c55276c4ff58f1ff87d433bb4fb)
 
 
