@@ -4,7 +4,11 @@
 
 📫 Mail: seungmin4755@gmail.com
 
-✨ Skill: Node.js | Typescript | Docker | ReactJS | MySQL
+✨ Skill: <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/ReactJS-61DAFB?style=flat&logo=React&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/NodeJS-339933?style=flat&logo=Node.js&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white" />&nbsp; | Docker
 
 🌱 [Resume](https://www.notion.so/Seungmin-Lee-706a5c55276c4ff58f1ff87d433bb4fb)
 
