@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/NGINX-269539?style=flat&logo=NGINX&logoColor=white" />&nbsp;
-#### 🔧 Studying
+#### 📚 Studying
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=Go&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white" />&nbsp;
