@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white" />&nbsp;
 
-🌱 [Resume](https://www.notion.so/Seungmin-Lee-706a5c55276c4ff58f1ff87d433bb4fb)
+#### 🌱 [Resume](https://www.notion.so/Seungmin-Lee-706a5c55276c4ff58f1ff87d433bb4fb)
 
 
 <!--
