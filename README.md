@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### 💬 Blog: https://surprisecomputer.tistory.com/ | https://velog.io/@seung3837
+#### 💬 Blog: https://surprisecomputer.tistory.com/
 
 #### 📫 Mail: seungmin4755@gmail.com
 
