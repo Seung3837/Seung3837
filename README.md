@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### 💬 Blog: https://surprisecomputer.tistory.com/
+#### 💬 Blog: https://millo-l.github.io/
 
 #### 📫 Mail: seungmin4755@gmail.com
 
