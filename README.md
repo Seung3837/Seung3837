@@ -2,7 +2,7 @@
 
 #### 💬 Blog: https://millo-l.github.io/
 
-#### 📫 Mail: seungmin4755@gmail.com
+#### 📫 Mail: seungmin3837@gmail.com
 
 #### ✨ Skills
 [<img src="https://img.shields.io/badge/NodeJS-339933?style=flat&logo=Node.js&logoColor=white" />&nbsp;](https://nodejs.org/en/)
